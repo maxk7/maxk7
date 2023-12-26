@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Max Konzerowsky, and I'm a computer science student at 🌲[Dartmouth College](https://home.dartmouth.edu/)!
+My name is Max Konzerowsky, and I'm a computer science student at 🌲Dartmouth College!
 
 <a href="mailto:maximilian.konzerowsky.26@dartmouth.edu">![maximilian.konzerowsky.26@dartmouth.edu](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="<https://www.linkedin.com/in/mkonzerowsky/>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
