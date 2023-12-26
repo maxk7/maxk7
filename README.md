@@ -1,8 +1,16 @@
 ### Hi there 👋
 
+My name is Max Konzerowsky, and I'm a computer science student at 🌲 [Dartmouth College](https://home.dartmouth.edu/)!
+
+<a href="mailto:maximilian.konzerowsky.26@dartmouth.edu">![maximilian.konzerowsky.26@dartmouth.edu](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="<https://www.linkedin.com/in/mkonzerowsky/>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
+
+
 <!--
 **maxk7/maxk7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxk7&layout=compact)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
