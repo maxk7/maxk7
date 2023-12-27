@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Max Konzerowsky, and I'm a computer science student at 🌲 Dartmouth College!
+My name is Max Konzerowsky, and I'm a computer science student at Dartmouth College!
 
 <!--
 **maxk7/maxk7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
