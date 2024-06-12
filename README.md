@@ -12,7 +12,10 @@ My name is Max Konzerowsky, and I'm a computer science student at Dartmouth Coll
   - PA 1: Linear Systems in NumPy
 
 - `CS50 [97.5%]` Software Design and Implementation (C, Bash)
-  - Lab 4-6: Tiny Search Engine!
+  - Tiny Search Engine
+    - Lab 6: Querier
+    - Lab 5: Indexer
+    - Lab 4: Crawler
   - Lab 3: Data structures in C (set, counters, hashtable)
   - Lab 2: Small programs in C (chill, words, histo)
   - Lab 1: Command line, basic shell commands, an editor, and a small bash program
