@@ -4,6 +4,12 @@ My name is Max Konzerowsky, and I'm a computer science student at Dartmouth Coll
 
 #### (🔒) Dartmouth Coursework
 - `CS70` Foundations of Applied Computer Science
+  - PA 6: Non-linear Optimization & Inverse Kinematics
+  - PA 5: Probability, CLT & Monte Carlo
+  - PA 4: Least Squares & Seamless Copy/paste
+  - PA 3: Least Squares & Ballistic Motion
+  - PA 2: Geometric Transformations
+  - PA 1: Linear Systems in NumPy
 
 - `CS50` Software Design and Implementation (C, Bash)
   - Lab 4-6: Tiny Search Engine!
