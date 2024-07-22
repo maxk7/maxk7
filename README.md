@@ -1,6 +1,4 @@
-### Hi there 👋
-
-My name is Max Konzerowsky, and I'm a computer science student at Dartmouth College!
+### My name is Max Konzerowsky, and I'm a computer science student at Dartmouth College
 
 #### (🔒) Dartmouth Coursework
 - `CS70 [98.7%]` Foundations of Applied Computer Science
