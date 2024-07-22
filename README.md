@@ -1,6 +1,6 @@
-### My name is Max Konzerowsky, and I'm a computer science student at Dartmouth College
-
-#### (🔒) Dartmouth Coursework
+My name is Max Konzerowsky, and I'm a CS student at Dartmouth College
+--
+### Dartmouth Coursework [🔒 Contact for Access]
 - `CS70 [98.7%]` Foundations of Applied Computer Science
   - PA 6: Non-linear Optimization & Inverse Kinematics
   - PA 5: Probability, CLT & Monte Carlo
