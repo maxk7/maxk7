@@ -4,7 +4,7 @@
 - `CS70 [98.7%]` Foundations of Applied Computer Science
   - PA 6: Non-linear Optimization & Inverse Kinematics
   - PA 5: Probability, CLT & Monte Carlo
-  - PA 4: Least Squares & Seamless Copy/paste
+  - PA 4: Least Squares & Seamless Copy/Paste
   - PA 3: Least Squares & Ballistic Motion
   - PA 2: Geometric Transformations
   - PA 1: Linear Systems in NumPy
