@@ -31,3 +31,9 @@ About me: My name is Max, and I'm a CS student at Dartmouth College.
 - PS 1: Webcam-Based Painting Program
   
 `CS01 [99.3%]` **Intro to Programming (Python)**
+
+
+### Project Images
+--
+
+**Charm:** Hydra-based Visualizer App with Custom Backend and User Interface
