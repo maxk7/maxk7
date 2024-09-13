@@ -32,8 +32,12 @@ About me: My name is Max, and I'm a CS student at Dartmouth College.
   
 `CS01 [99.3%]` **Intro to Programming (Python)**
 
-
-### Project Images
+Project Images
 --
+### **Charm:** A Hydra-based Visualizer App with Extendable TUI and Backend
 
-**Charm:** Hydra-based Visualizer App with Custom Backend and User Interface
+Visualizer Output:
+![Viz View](images/charmVisualizer.png)
+
+Text-based User Interface:
+![TUI View](images/charmTUI.png)
