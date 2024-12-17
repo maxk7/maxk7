@@ -3,9 +3,9 @@
 
 # Max Konzerowsky
 
-Hi 👋 My name is Max, and I'm a Computer Science major at Dartmouth College and a coxswain on our __Men's Lightweight Rowing Team__. 
+Hi 👋 My name's Max, and I'm a Computer Science major at Dartmouth College and a coxswain on our __Men's Lightweight Rowing Team__. 
 What excites me most about programming is that you're given all the tools necessary to solve real-world problems, but how you choose to use those tools is up to you. 
-Outside of the classroom and boathouse, I am a computational research intern at the __National Renewable Energy Labratory__ and also like to work on independent projects.
+Outside of the classroom and boathouse, I'm a computational research intern at the __National Renewable Energy Labratory__ and also like to work on independent projects.
 
 </br>
 
