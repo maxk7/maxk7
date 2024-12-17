@@ -1,25 +1,32 @@
 ![IMG_7760](https://github.com/user-attachments/assets/86ebfee5-16e9-483c-970a-82c8e0775c4b)
->Mirach (Star), photographed by me in 2022 using with the help of my project [SloohManager](https://github.com/maxk7/SloohManager)
+>Mirach (Star), photographed by me in 2022 using my project [SloohManager](https://github.com/maxk7/SloohManager)
 
-Max Konzerowsky
---
-<blockquote>
+# Max Konzerowsky
+
+Hi 👋 My name is Max, and I'm a Computer Science major at Dartmouth College and a coxswain on our __Men's Lightweight Rowing Team__. 
+What excites me most about programming is that you're given all the tools necessary to solve real-world problems, but how you choose to use those tools is up to you. 
+Outside of the classroom and boathouse, I am a computational research intern at the __National Renewable Energy Labratory__ and also like to work on independent projects.
+
+</br>
+
 Email: maximilian.konzerowsky.26@dartmouth.edu
-<br></br>
-About me: My name is Max, and I'm a Computer Science major at Dartmouth College and a coxswain on our Men's Lightweight Rowing Team. What excites me most about programming is that you're given all the tools necessary to solve real-world problems, but how you choose to use those tools is up to you. Outside of the classroom and boathouse, I am a computational research intern at the National Renewable Energy Labratory and also like to work on independent projects.
-</blockquote>
 
-### Dartmouth Coursework [Contact for Source Code]
+## Dartmouth Computer Science Coursework [Contact for Source Code]
+
+<details>
+<summary> click to expand coursework details </summary>
+
+</br>
 
 **Algorithms and Data Structures**
 
 **Theory of Computation**
 
-**Principles of Programming Languages (Semantic and Declarative Technologies)**
+**Semantic and Declarative Technologies (Prolog)**
 - HW 2: Solving a Skyscraper Sudoku Puzzle in Prolog with Constraint Programming
 - HW 1: Solving a Sudoku Puzzle in Prolog
 
-**Mobile Software Development for Android**
+**Mobile Software Development (Kotlin, Android Studio) **
 - Final Project: Hangman Game
 - HW 3: Weather App
 - HW 2: Shopping List App
@@ -53,3 +60,5 @@ About me: My name is Max, and I'm a Computer Science major at Dartmouth College 
 - HW 1: Webcam-Based Painting Program
   
 **Intro to Programming (Python)**
+</details>
+
