@@ -1,4 +1,5 @@
-*Curriculum Vitae*
+![IMG_7760](https://github.com/user-attachments/assets/86ebfee5-16e9-483c-970a-82c8e0775c4b)
+>Mirach (Star), photographed by me in 2022 using with the help of my project [SloohManager](https://github.com/maxk7/SloohManager)
 
 Max Konzerowsky
 --
