@@ -1,45 +1,54 @@
-Maximilian Konzerowsky
+*Curriculum Vitae*
+
+Max Konzerowsky
 --
+<blockquote>
+Email: maximilian.konzerowsky.26@dartmouth.edu
+<br></br>
+About me: My name is Max, and I'm a Computer Science major at Dartmouth College and a coxswain on our Men's Lightweight Rowing Team. What excites me most about programming is that you're given all the tools necessary to solve real-world problems, but how you choose to use those tools is up to you. Outside of the classroom and boathouse, I am a computational research intern at the National Renewable Energy Labratory and also like to work on independent projects.
+</blockquote>
 
-About me: My name is Max, and I'm a CS student at Dartmouth College.
+### Dartmouth Coursework [Contact for Source Code]
 
-### Dartmouth Coursework [Contact for Access]
+**Algorithms and Data Structures**
 
-`CS70 [98.7%]` **Foundations of Applied Computer Science (Python)**
-- PA 6: Non-linear Optimization & Inverse Kinematics
-- PA 5: Probability, CLT & Monte Carlo
-- PA 4: Least Squares & Seamless Copy/Paste
-- PA 3: Least Squares & Ballistic Motion
-- PA 2: Geometric Transformations
-- PA 1: Linear Systems in NumPy
+**Theory of Computation**
 
-`CS50 [97.5%]` **Software Design and Implementation (C, Bash)**
+**Principles of Programming Languages (Semantic and Declarative Technologies)**
+- HW 2: Solving a Skyscraper Sudoku Puzzle in Prolog with Constraint Programming
+- HW 1: Solving a Sudoku Puzzle in Prolog
+
+**Mobile Software Development for Android**
+- Final Project: Hangman Game
+- HW 3: Weather App
+- HW 2: Shopping List App
+- HW 1: Minesweeper Game
+
+**Foundations of Applied Computer Science (Python)**
+- HW 6: Non-linear Optimization & Inverse Kinematics
+- HW 5: Probability, CLT & Monte Carlo
+- HW 4: Least Squares & Seamless Copy/Paste
+- HW 3: Least Squares & Ballistic Motion
+- HW 2: Geometric Transformations
+- HW 1: Linear Systems in NumPy
+
+**Software Design and Implementation (C, Bash)**
 - Tiny Search Engine
-  - Lab 6: Querier
-  - Lab 5: Indexer
-  - Lab 4: Crawler
-- Lab 3: Data Structures in C (set, counters, hashtable)
-- Lab 2: Small Programs in C (chill, words, histo)
-- Lab 1: Command Line, Basic Shell Commands, an Editor, and a Small Bash Program
+  - HW 6: Querier
+  - HW 5: Indexer
+  - HW 4: Crawler
+- HW 3: Data Structures in C (set, counters, hashtable)
+- HW 2: Small Programs in C (chill, words, histo)
+- HW 1: Command Line, Basic Shell Commands, an Editor, and a Small Bash Program
 
-`CS10 [96.07%]` **Problem Solving via Object-Oriented Programming (Java)**
-- PS 6: Collaborative Graphical Editor
-- PS 5: Part of Speech Tagger
-- PS 4: Social Network Analysis Game
-- PS 3: Huffman Encoding to Compress and Decompress
-- PS 2: Point Quadtree and Collision
-- PS 1: Webcam-Based Painting Program
+**Discrete Mathematics for Computer Science**
+
+**Problem Solving via Object-Oriented Programming (Java)**
+- HW 6: Collaborative Graphical Editor
+- HW 5: Part of Speech Tagger
+- HW 4: Social Network Analysis Game
+- HW 3: Huffman Encoding to Compress and Decompress
+- HW 2: Point Quadtree and Collision
+- HW 1: Webcam-Based Painting Program
   
-`CS01 [99.3%]` **Intro to Programming (Python)**
-
-<!---
-Project Images
---
-### **Charm:** A Hydra-based Visualizer App with Extendable TUI and Backend
-
-Visualizer Output:
-![Viz View](images/charmVisualizer.png)
-
-Text-based User Interface:
-![TUI View](images/charmTUI.png)
--->
+**Intro to Programming (Python)**
