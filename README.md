@@ -24,9 +24,9 @@ Email: maximilian.konzerowsky.26@dartmouth.edu
 
 **Semantic and Declarative Technologies (Prolog)**
 - HW 2: Solving a Skyscraper Sudoku Puzzle in Prolog with Constraint Programming
-- HW 1: Solving a Sudoku Puzzle in Prolog
+- HW 1: Solving a Sudoku Puzzle with Prolog
 
-**Mobile Software Development (Kotlin, Android Studio) **
+**Mobile Software Development (Kotlin, Android Studio)**
 - Final Project: Hangman Game
 - HW 3: Weather App
 - HW 2: Shopping List App
