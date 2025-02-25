@@ -1,4 +1,4 @@
-![IMG_7760](https://github.com/user-attachments/assets/86ebfee5-16e9-483c-970a-82c8e0775c4b)
+![mirach](https://github.com/user-attachments/assets/8165bb1f-9bbd-4938-aae7-8481a251d6ae)
 >Mirach (Star), photographed by me in 2022 assisted by my project [SloohManager](https://github.com/maxk7/SloohManager)
 
 # Max Konzerowsky
